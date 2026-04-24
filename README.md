@@ -66,7 +66,7 @@ Advanced spam detection system
 # Team
 ~ Team Name: Little Bits
 ~ Team Members:
-Vaka Bhanu Vaishnavi 
+Vaka Bhanu Vaishnavi,
 Cheela Chaitanya Sri
 
 # Hackathon Project
